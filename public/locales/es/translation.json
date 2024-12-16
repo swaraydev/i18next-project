@@ -1,0 +1,7 @@
+{
+  "greeting": "Hola, bienvenidos !",
+  "description": {
+    "line1": " Estás viendo <1>{{page}}</1>  Portofolio",
+    "line2": "Esta es la página de interiorización"
+  }
+}
